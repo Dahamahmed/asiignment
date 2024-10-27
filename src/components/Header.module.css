@@ -1,0 +1,15 @@
+.container{
+    font-family:'Times New Roman', Times, serif ;
+    color: darkcyan;
+    background-color: blue;
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkcyan;
+    background-color:rgb(199, 35, 193) ;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 157);
+    background-color: rgb(168, 255, 127);
+}

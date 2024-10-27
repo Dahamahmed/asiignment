@@ -1,0 +1,16 @@
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    color: firebrick;
+    background-color: rgb(157, 255, 127);
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(61, 218, 210);
+    background-color: blueviolet;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(204, 20, 20, 0.952);
+    background-color: rgb(46, 165, 42);
+    padding: 70px;
+}

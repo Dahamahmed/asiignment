@@ -1,0 +1,15 @@
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    background-color: orchid;
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(27, 131, 131);
+    background-color: gold;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(0, 128, 43, 0.664);
+    background-color: rgb(201, 39, 166);
+}
